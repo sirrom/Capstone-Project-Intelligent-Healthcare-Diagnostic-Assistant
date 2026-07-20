@@ -55,4 +55,5 @@ def build_system() -> HealthcareDiagnosticAgent:
         'BayesianNet':   SimpleBayesianDiagnostics(),  
         'MLClassifier':  MLDiagnosticClassifier(),  
         'NeuralNetwork': NeuralDiagnosticModel(),  
-        'Fuzzy
+        #'Fuzzy' 
+    }
